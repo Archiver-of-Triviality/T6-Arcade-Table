@@ -1,1 +1,1 @@
-# T6-Arcade-Table
+# T6 Arcade Table
